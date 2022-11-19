@@ -1,0 +1,527 @@
+[
+  {
+    "Incident (Message Reflexe)": {
+      "fréquence absolu": 314823,
+      "fréquence relative": 0.5181384586013259,
+      "pourcentage": "51.81 %"
+    }
+  },
+  {
+    "Difficultés d'exploitation": {
+      "fréquence absolu": 27684,
+      "fréquence relative": 0.04556257035832549,
+      "pourcentage": "4.56 %"
+    }
+  },
+  {
+    "Incident d'exploitation": {
+      "fréquence absolu": 24057,
+      "fréquence relative": 0.03959322190110664,
+      "pourcentage": "3.96 %"
+    }
+  },
+  {
+    "Bagage oublié": {
+      "fréquence absolu": 21262,
+      "fréquence relative": 0.034993186351636923,
+      "pourcentage": "3.50 %"
+    }
+  },
+  {
+    "Malaise voyageur": {
+      "fréquence absolu": 21123,
+      "fréquence relative": 0.03476441893075095,
+      "pourcentage": "3.48 %"
+    }
+  },
+  {
+    "Personnes sur les voies": {
+      "fréquence absolu": 18016,
+      "fréquence relative": 0.029650891040875305,
+      "pourcentage": "2.97 %"
+    }
+  },
+  {
+    "Mesures de sécurité": {
+      "fréquence absolu": 16955,
+      "fréquence relative": 0.027904687921738502,
+      "pourcentage": "2.79 %"
+    }
+  },
+  {
+    "Incident technique": {
+      "fréquence absolu": 16520,
+      "fréquence relative": 0.027188761100980244,
+      "pourcentage": "2.72 %"
+    }
+  },
+  {
+    "Mesures de régulation": {
+      "fréquence absolu": 14298,
+      "fréquence relative": 0.0235317739843714,
+      "pourcentage": "2.35 %"
+    }
+  },
+  {
+    "Panne de signalisation": {
+      "fréquence absolu": 12210,
+      "fréquence relative": 0.020095325244731767,
+      "pourcentage": "2.01 %"
+    }
+  },
+  {
+    "Panne mécanique": {
+      "fréquence absolu": 11038,
+      "fréquence relative": 0.018166437350642852,
+      "pourcentage": "1.82 %"
+    }
+  },
+  {
+    "Incident voyageur": {
+      "fréquence absolu": 10194,
+      "fréquence relative": 0.016777374737493498,
+      "pourcentage": "1.68 %"
+    }
+  },
+  {
+    "Autre (Local)": {
+      "fréquence absolu": 10149,
+      "fréquence relative": 0.016703313342242645,
+      "pourcentage": "1.67 %"
+    }
+  },
+  {
+    "Actionnement d'un signal d'alarme": {
+      "fréquence absolu": 9742,
+      "fréquence relative": 0.01603346916741825,
+      "pourcentage": "1.60 %"
+    }
+  },
+  {
+    "Incident affectant la voie": {
+      "fréquence absolu": 9572,
+      "fréquence relative": 0.01575368167424836,
+      "pourcentage": "1.58 %"
+    }
+  },
+  {
+    "Train en panne": {
+      "fréquence absolu": 9088,
+      "fréquence relative": 0.014957110223105839,
+      "pourcentage": "1.50 %"
+    }
+  },
+  {
+    "Mouvement social": {
+      "fréquence absolu": 5545,
+      "fréquence relative": 0.009126009703688587,
+      "pourcentage": "0.91 %"
+    }
+  },
+  {
+    "Divers incidents": {
+      "fréquence absolu": 5096,
+      "fréquence relative": 0.008387041559963396,
+      "pourcentage": "0.84 %"
+    }
+  },
+  {
+    "Gêne à la fermeture des portes": {
+      "fréquence absolu": 4584,
+      "fréquence relative": 0.007544387462887012,
+      "pourcentage": "0.75 %"
+    }
+  },
+  {
+    "Accident grave de personne": {
+      "fréquence absolu": 4356,
+      "fréquence relative": 0.0071691430602826844,
+      "pourcentage": "0.72 %"
+    }
+  },
+  {
+    "Préavis de grève de tous les syndicats de la RATP": {
+      "fréquence absolu": 4246,
+      "fréquence relative": 0.0069881040941139295,
+      "pourcentage": "0.70 %"
+    }
+  },
+  {
+    "Acte de malveillance": {
+      "fréquence absolu": 4123,
+      "fréquence relative": 0.006785669613761595,
+      "pourcentage": "0.68 %"
+    }
+  },
+  {
+    "Fin tardive de chantier": {
+      "fréquence absolu": 4004,
+      "fréquence relative": 0.006589818368542669,
+      "pourcentage": "0.66 %"
+    }
+  },
+  {
+    "Défaut d'alimentation électrique": {
+      "fréquence absolu": 3987,
+      "fréquence relative": 0.00656183961922568,
+      "pourcentage": "0.66 %"
+    }
+  },
+  {
+    "Travaux (non précisé)": {
+      "fréquence absolu": 2955,
+      "fréquence relative": 0.004863364954806091,
+      "pourcentage": "0.49 %"
+    }
+  },
+  {
+    "Autre (Commercial)": {
+      "fréquence absolu": 2849,
+      "fréquence relative": 0.004688909223770746,
+      "pourcentage": "0.47 %"
+    }
+  },
+  {
+    "Manifestation (non précisée)": {
+      "fréquence absolu": 2420,
+      "fréquence relative": 0.003982857255712602,
+      "pourcentage": "0.40 %"
+    }
+  },
+  {
+    "Intervention conducteur": {
+      "fréquence absolu": 2170,
+      "fréquence relative": 0.0035714050598745235,
+      "pourcentage": "0.36 %"
+    }
+  },
+  {
+    "Incident aux portes palières": {
+      "fréquence absolu": 1627,
+      "fréquence relative": 0.0026777308905142163,
+      "pourcentage": "0.27 %"
+    }
+  },
+  {
+    "Intervention des équipes techniques": {
+      "fréquence absolu": 1460,
+      "fréquence relative": 0.00240288082369438,
+      "pourcentage": "0.24 %"
+    }
+  },
+  {
+    "Intervention agent": {
+      "fréquence absolu": 1411,
+      "fréquence relative": 0.0023222361933101163,
+      "pourcentage": "0.23 %"
+    }
+  },
+  {
+    "Intervention des forces de l'ordre": {
+      "fréquence absolu": 1144,
+      "fréquence relative": 0.0018828052481550484,
+      "pourcentage": "0.19 %"
+    }
+  },
+  {
+    "Dégagement de fumée": {
+      "fréquence absolu": 987,
+      "fréquence relative": 0.001624413269168735,
+      "pourcentage": "0.16 %"
+    }
+  },
+  {
+    "Autres": {
+      "fréquence absolu": 789,
+      "fréquence relative": 0.0012985431300649765,
+      "pourcentage": "0.13 %"
+    }
+  },
+  {
+    "Tramway en panne": {
+      "fréquence absolu": 772,
+      "fréquence relative": 0.0012705643807479872,
+      "pourcentage": "0.13 %"
+    }
+  },
+  {
+    "Rupture d'alimentation électrique": {
+      "fréquence absolu": 684,
+      "fréquence relative": 0.0011257332078129835,
+      "pourcentage": "0.11 %"
+    }
+  },
+  {
+    "Conditions climatiques": {
+      "fréquence absolu": 561,
+      "fréquence relative": 0.0009232987274606487,
+      "pourcentage": "0.09 %"
+    }
+  },
+  {
+    "Autre (Evènementiel)": {
+      "fréquence absolu": 452,
+      "fréquence relative": 0.0007439055700752463,
+      "pourcentage": "0.07 %"
+    }
+  },
+  {
+    "Rail endommagé": {
+      "fréquence absolu": 414,
+      "fréquence relative": 0.0006813648363078584,
+      "pourcentage": "0.07 %"
+    }
+  },
+  {
+    "Accident sur la voie publique": {
+      "fréquence absolu": 387,
+      "fréquence relative": 0.0006369279991573459,
+      "pourcentage": "0.06 %"
+    }
+  },
+  {
+    "Animal sur les voies": {
+      "fréquence absolu": 345,
+      "fréquence relative": 0.0005678040302565487,
+      "pourcentage": "0.06 %"
+    }
+  },
+  {
+    "Incendie aux abord des voies": {
+      "fréquence absolu": 337,
+      "fréquence relative": 0.0005546375599897301,
+      "pourcentage": "0.06 %"
+    }
+  },
+  {
+    "Arrêt de travail spontané": {
+      "fréquence absolu": 334,
+      "fréquence relative": 0.0005497001336396732,
+      "pourcentage": "0.05 %"
+    }
+  },
+  {
+    "Travaux de modernisation": {
+      "fréquence absolu": 305,
+      "fréquence relative": 0.000501971678922456,
+      "pourcentage": "0.05 %"
+    }
+  },
+  {
+    "Accident entre tiers": {
+      "fréquence absolu": 269,
+      "fréquence relative": 0.0004427225627217727,
+      "pourcentage": "0.04 %"
+    }
+  },
+  {
+    "Accident avec tiers": {
+      "fréquence absolu": 261,
+      "fréquence relative": 0.0004295560924549542,
+      "pourcentage": "0.04 %"
+    }
+  },
+  {
+    "Cérémonie": {
+      "fréquence absolu": 258,
+      "fréquence relative": 0.0004246186661048973,
+      "pourcentage": "0.04 %"
+    }
+  },
+  {
+    "Intervention des pompiers": {
+      "fréquence absolu": 249,
+      "fréquence relative": 0.00040980638705472646,
+      "pourcentage": "0.04 %"
+    }
+  },
+  {
+    "Sport et Spectacle": {
+      "fréquence absolu": 207,
+      "fréquence relative": 0.0003406824181539292,
+      "pourcentage": "0.03 %"
+    }
+  },
+  {
+    "Affluence exceptionnelle": {
+      "fréquence absolu": 154,
+      "fréquence relative": 0.0002534545526362565,
+      "pourcentage": "0.03 %"
+    }
+  },
+  {
+    "Préavis de grève": {
+      "fréquence absolu": 119,
+      "fréquence relative": 0.0001958512452189255,
+      "pourcentage": "0.02 %"
+    }
+  },
+  {
+    "Travaux de rénovation": {
+      "fréquence absolu": 103,
+      "fréquence relative": 0.00016951830468528843,
+      "pourcentage": "0.02 %"
+    }
+  },
+  {
+    "Inondation": {
+      "fréquence absolu": 103,
+      "fréquence relative": 0.00016951830468528843,
+      "pourcentage": "0.02 %"
+    }
+  },
+  {
+    "Obstacle sur la voie": {
+      "fréquence absolu": 89,
+      "fréquence relative": 0.00014647698171835603,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Travaux RVB": {
+      "fréquence absolu": 88,
+      "fréquence relative": 0.00014483117293500372,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Commémoration": {
+      "fréquence absolu": 86,
+      "fréquence relative": 0.00014153955536829908,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Déconfinement": {
+      "fréquence absolu": 76,
+      "fréquence relative": 0.00012508146753477593,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Préavis de grève (+liste) des syndicats de la RATP": {
+      "fréquence absolu": 71,
+      "fréquence relative": 0.00011685242361801436,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Alerte": {
+      "fréquence absolu": 71,
+      "fréquence relative": 0.00011685242361801436,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Fortes pluies": {
+      "fréquence absolu": 51,
+      "fréquence relative": 8.393624795096807e-05,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Mouvement social QR Code": {
+      "fréquence absolu": 51,
+      "fréquence relative": 8.393624795096807e-05,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Intervention des secours": {
+      "fréquence absolu": 48,
+      "fréquence relative": 7.899882160091112e-05,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Travaux de voirie": {
+      "fréquence absolu": 32,
+      "fréquence relative": 5.266588106727408e-05,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Embouteillage": {
+      "fréquence absolu": 31,
+      "fréquence relative": 5.1020072283921764e-05,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Ascenseur": {
+      "fréquence absolu": 30,
+      "fréquence relative": 4.937426350056945e-05,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Alerte enlévement": {
+      "fréquence absolu": 25,
+      "fréquence relative": 4.1145219583807876e-05,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Chutes de neige": {
+      "fréquence absolu": 19,
+      "fréquence relative": 3.127036688369398e-05,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Marathon de Paris": {
+      "fréquence absolu": 17,
+      "fréquence relative": 2.7978749316989356e-05,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Fortes chaleurs": {
+      "fréquence absolu": 6,
+      "fréquence relative": 9.87485270011389e-06,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Travaux (Ressource Graphique)": {
+      "fréquence absolu": 5,
+      "fréquence relative": 8.229043916761575e-06,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Défilé": {
+      "fréquence absolu": 3,
+      "fréquence relative": 4.937426350056945e-06,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Canalisation défectueuse": {
+      "fréquence absolu": 3,
+      "fréquence relative": 4.937426350056945e-06,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Escalier Mécanique": {
+      "fréquence absolu": 2,
+      "fréquence relative": 3.29161756670463e-06,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Pass Navigo": {
+      "fréquence absolu": 1,
+      "fréquence relative": 1.645808783352315e-06,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Nuit Blanche": {
+      "fréquence absolu": 1,
+      "fréquence relative": 1.645808783352315e-06,
+      "pourcentage": "0.00 %"
+    }
+  }
+]

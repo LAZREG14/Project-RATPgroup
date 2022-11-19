@@ -1,0 +1,275 @@
+[
+  {
+    "Train stationne": {
+      "fréquence absolu": 357154,
+      "fréquence relative": 0.6166609688970844,
+      "pourcentage": "61.67 %"
+    }
+  },
+  {
+    "Trafic perturbé": {
+      "fréquence absolu": 86226,
+      "fréquence relative": 0.14887753939230697,
+      "pourcentage": "14.89 %"
+    }
+  },
+  {
+    "Trafic interrompu": {
+      "fréquence absolu": 35640,
+      "fréquence relative": 0.06153591148773944,
+      "pourcentage": "6.15 %"
+    }
+  },
+  {
+    "Prochain train retardé": {
+      "fréquence absolu": 30469,
+      "fréquence relative": 0.052607679212119327,
+      "pourcentage": "5.26 %"
+    }
+  },
+  {
+    "Reprise progressive du trafic": {
+      "fréquence absolu": 19636,
+      "fréquence relative": 0.033903455610921764,
+      "pourcentage": "3.39 %"
+    }
+  },
+  {
+    "Train repart": {
+      "fréquence absolu": 15114,
+      "fréquence relative": 0.02609578468646728,
+      "pourcentage": "2.61 %"
+    }
+  },
+  {
+    "Trafic très perturbé": {
+      "fréquence absolu": 6629,
+      "fréquence relative": 0.011445610472845811,
+      "pourcentage": "1.14 %"
+    }
+  },
+  {
+    "Suppression de mission": {
+      "fréquence absolu": 5478,
+      "fréquence relative": 0.009458297506448839,
+      "pourcentage": "0.95 %"
+    }
+  },
+  {
+    "Trafic normal": {
+      "fréquence absolu": 4362,
+      "fréquence relative": 0.007531415429560029,
+      "pourcentage": "0.75 %"
+    }
+  },
+  {
+    "Station / Gare fermée, arrêt non desservi": {
+      "fréquence absolu": 3314,
+      "fréquence relative": 0.005721941938001361,
+      "pourcentage": "0.57 %"
+    }
+  },
+  {
+    "Train ne prend plus de voyageur": {
+      "fréquence absolu": 3161,
+      "fréquence relative": 0.005457772621008539,
+      "pourcentage": "0.55 %"
+    }
+  },
+  {
+    "Desserte du prochain train modifié ": {
+      "fréquence absolu": 2559,
+      "fréquence relative": 0.00441836132146816,
+      "pourcentage": "0.44 %"
+    }
+  },
+  {
+    "Station / Gare non desservie": {
+      "fréquence absolu": 2301,
+      "fréquence relative": 0.003972899335950854,
+      "pourcentage": "0.40 %"
+    }
+  },
+  {
+    "Station / Gare fermée, correspondance non assurée": {
+      "fréquence absolu": 2055,
+      "fréquence relative": 0.0035481565125506324,
+      "pourcentage": "0.35 %"
+    }
+  },
+  {
+    "Station / Gare fermée": {
+      "fréquence absolu": 1513,
+      "fréquence relative": 0.0026123410235956725,
+      "pourcentage": "0.26 %"
+    }
+  },
+  {
+    "Trains ne marquent pas l'arrêt": {
+      "fréquence absolu": 994,
+      "fréquence relative": 0.0017162372620317902,
+      "pourcentage": "0.17 %"
+    }
+  },
+  {
+    "Train sans voyageur": {
+      "fréquence absolu": 399,
+      "fréquence relative": 0.0006889121403930425,
+      "pourcentage": "0.07 %"
+    }
+  },
+  {
+    "Circulation alternée (contresens)": {
+      "fréquence absolu": 363,
+      "fréquence relative": 0.0006267546540417905,
+      "pourcentage": "0.06 %"
+    }
+  },
+  {
+    "Véhicule ne prend plus de voyageur": {
+      "fréquence absolu": 269,
+      "fréquence relative": 0.00046445455079129934,
+      "pourcentage": "0.05 %"
+    }
+  },
+  {
+    "Retour progressif à la normale": {
+      "fréquence absolu": 249,
+      "fréquence relative": 0.0004299226139294927,
+      "pourcentage": "0.04 %"
+    }
+  },
+  {
+    "Desserte assurée": {
+      "fréquence absolu": 139,
+      "fréquence relative": 0.00023999696118955617,
+      "pourcentage": "0.02 %"
+    }
+  },
+  {
+    "Service réduit": {
+      "fréquence absolu": 136,
+      "fréquence relative": 0.00023481717066028518,
+      "pourcentage": "0.02 %"
+    }
+  },
+  {
+    "Desserte exceptionnelle": {
+      "fréquence absolu": 130,
+      "fréquence relative": 0.00022445758960174317,
+      "pourcentage": "0.02 %"
+    }
+  },
+  {
+    "Train sans arrêt": {
+      "fréquence absolu": 114,
+      "fréquence relative": 0.00019683204011229787,
+      "pourcentage": "0.02 %"
+    }
+  },
+  {
+    "Itinéraire dévié": {
+      "fréquence absolu": 104,
+      "fréquence relative": 0.00017956607168139453,
+      "pourcentage": "0.02 %"
+    }
+  },
+  {
+    "Interconnexion suspendue": {
+      "fréquence absolu": 93,
+      "fréquence relative": 0.00016057350640740089,
+      "pourcentage": "0.02 %"
+    }
+  },
+  {
+    "Bus de remplacement": {
+      "fréquence absolu": 85,
+      "fréquence relative": 0.00014676073166267824,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Quai fermé": {
+      "fréquence absolu": 70,
+      "fréquence relative": 0.00012086177901632324,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Station / Gare fermée, correspondance assurée": {
+      "fréquence absolu": 68,
+      "fréquence relative": 0.00011740858533014259,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Service partiel": {
+      "fréquence absolu": 67,
+      "fréquence relative": 0.00011568198848705225,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Terminus": {
+      "fréquence absolu": 65,
+      "fréquence relative": 0.00011222879480087159,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Accès fermé": {
+      "fréquence absolu": 59,
+      "fréquence relative": 0.00010186921374232959,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Correspondance non assurée": {
+      "fréquence absolu": 44,
+      "fréquence relative": 7.597026109597461e-05,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Véhicule sans voyageur": {
+      "fréquence absolu": 32,
+      "fréquence relative": 5.5251098978890625e-05,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Train omnibus": {
+      "fréquence absolu": 30,
+      "fréquence relative": 5.179790529270996e-05,
+      "pourcentage": "0.01 %"
+    }
+  },
+  {
+    "Service provisoire": {
+      "fréquence absolu": 15,
+      "fréquence relative": 2.589895264635498e-05,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Arrêt déplacé": {
+      "fréquence absolu": 13,
+      "fréquence relative": 2.2445758960174316e-05,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Interconnexion maintenue": {
+      "fréquence absolu": 13,
+      "fréquence relative": 2.2445758960174316e-05,
+      "pourcentage": "0.00 %"
+    }
+  },
+  {
+    "Véhicule à l'arrêt": {
+      "fréquence absolu": 12,
+      "fréquence relative": 2.0719162117083984e-05,
+      "pourcentage": "0.00 %"
+    }
+  }
+]
